@@ -201,4 +201,4 @@ This repository serves as the official landing page for Spooky Survivors. The so
 **Get the most recent version of Spooky Survivors today!**
 
 ---
-**Last updated:** 2026-11-10 21:09:37 UTC
+**Last updated:** 2026-11-11 01:40:06 UTC
